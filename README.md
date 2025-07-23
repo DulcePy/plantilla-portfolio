@@ -2,7 +2,7 @@
 
 Este proyecto es un Portafolio web responsivo.
 
-📌 Lo puedes ver en el siguiente <a href="">enlace</a>
+📌 Lo puedes ver en el siguiente <a href="https://plantilla-portfolio.netlify.app/">enlace</a>
 
 ### 🛠 Tecnologías utilizadas
 - HTML5
